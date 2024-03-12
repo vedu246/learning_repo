@@ -1,1 +1,1 @@
-print("wellcome to devops and aws")
+print("This is the commit to the newbranch")
